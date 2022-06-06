@@ -1,2 +1,2 @@
 # MyTestRepo
-new repo
+this is a place for me to practice Python!
